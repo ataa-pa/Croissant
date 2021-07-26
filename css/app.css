@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(111.5deg, rgb(228, 247, 255) 21.9%, rgb(255, 216, 194) 92.2%);
+  text-align: center;
+}
+a {
+  margin: 0 10px;
+  color: #008000;
+}
+img {
+  border-radius: 50%;
+  padding-bottom: 25px;
+}
+.contact {
+  color: blue;
+  margin: 0;
+}
